@@ -32,6 +32,10 @@ March 2025 [[paper](CISA/Reviewing_VEX_Practices/Reviewing_VEX_Practices.pdf)] [
 
 To better understand how VEX is being used or considered for use today, the VEX Working Group solicited and reviewed current VEX practices.
 
+### SBOM for AI Use Cases
+
+Use cases and recommendations to operationalize Software Bills of Materials (SBOMs) for Artificial Intelligence (AI). [publication](https://github.com/aibom-squad/SBOM-for-AI-Tiger-Team#sbom-for-ai-use-cases)
+
 ## NTIA Software Component Transparency
 
 These documents were developed collaboratively through the [NTIA Multistakeholder Process on Software Component Transparency](https://www.ntia.gov/other-publication/2021/ntia-software-component-transparency) and are hosted on the [NTIA Software Bill of Materials](https://www.ntia.gov/page/software-bill-materials) page.
