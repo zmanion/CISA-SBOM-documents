@@ -205,6 +205,12 @@ This document lays out the different perspectives of those who produce software,
 
 | NTIA | November 2019 | [source](https://www.ntia.gov/sites/default/files/publications/ntia_sbom_use_cases_roles_benefits-nov2019_0.pdf) | [copy](SBOM/Roles_and_Benefits_for_SBOM/ntia_sbom_use_cases_roles_benefits-nov2019_0.pdf) |
 
+### SBOM for AI Use Cases
+
+Use cases and recommendations to operationalize Software Bills of Materials (SBOMs) for Artificial Intelligence (AI). [publication](https://github.com/aibom-squad/SBOM-for-AI-Tiger-Team#sbom-for-ai-use-cases)
+
+## NTIA Software Component Transparency
+
 ## VEX
 
 ### Reviewing Vulnerability Exploitability eXchange (VEX) Practices
